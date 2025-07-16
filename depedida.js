@@ -1,0 +1,1 @@
+export const despedir = (nombre) => `¡Adiós, ${nombre}! Esperamos verte pronto en los módulos`;
